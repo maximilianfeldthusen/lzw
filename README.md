@@ -1,4 +1,7 @@
-# LZW Compression Algorithm Implementation in C
+
+## Documentation
+
+### LZW Compression Algorithm Implementation in C
 
 
 A straightforward C code of the Lempel-Ziv-Welch (LZW) compression algorithm in C. LZW is a popular lossless data compression method that substitutes repeated data occurrences with references to a single instance.
